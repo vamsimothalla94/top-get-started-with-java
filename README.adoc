@@ -1,1 +1,26 @@
-= Get started with java
+---
+tags: [java]
+projects: [core-java]
+---
+:toc:
+:all: {asterisk}{asterisk}
+
+= Get Started With Java
+
+Java involves a few key steps, including setting up your development environment, learning the basic syntax and concepts of the language, and practicing your coding skills. Here's a step-by-step guide to help you get started with Java
+
+== Install Java Development Kit (JDK):
+
+Before you can start coding in Java, you need to install the Java Development Kit (JDK) on your machine. The JDK includes the Java Runtime Environment (JRE) along with tools and libraries necessary for Java development.
+
+* Visit the official Oracle JDK download page: https://www.oracle.com/java/technologies/javase-downloads.html[Oracle JDK Downloads].
+* Download and install the JDK appropriate for your operating system (Windows, macOS, or Linux).
+
+== Set up an Integrated Development Environment (IDE):
+
+While you can write Java code using a simple text editor, using an Integrated Development Environment (IDE) can greatly enhance your productivity. Some popular Java IDEs include:
+
+* Eclipse: https://www.eclipse.org/downloads/[Eclipse Downloads]
+* IntelliJ IDEA: https://www.jetbrains.com/idea/download/[IntelliJ IDEA]
+
+Choose an IDE and install it on your machine.
